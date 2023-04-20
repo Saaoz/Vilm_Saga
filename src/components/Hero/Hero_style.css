@@ -1,0 +1,23 @@
+section{
+    display: flex;
+    flex-direction: column;
+    height: 81.1rem;
+    background-image: src'../../assets/img/fond_hero.zip' ;
+}
+h2{
+    font-size: 6.4rem;
+}
+p{
+    font-size: 2.8rem;
+}
+.star{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.avis{
+    display: flex;
+
+}
+.note{
+    font-size: 3.6rem;
+}
