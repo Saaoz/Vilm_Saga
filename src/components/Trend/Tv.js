@@ -1,11 +1,12 @@
 import react from 'react';
-import Schema from './Schema_Trend/Schema';
+import './Trend_style.css';
+import { SchemaTv } from './Schema_Trend/SchemaMovie';
 
 function Tv() {
     return (
         <section>
             <h1>Trending TVs</h1>
-            <Schema />
+            <SchemaTv />
         </section>
     );
 }

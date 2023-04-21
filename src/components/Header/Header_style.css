@@ -8,6 +8,7 @@ h1{
 /* css for searchbar */
 
 .search{
+    background-color: #C4C4C44D;
 
 }
 
@@ -22,6 +23,9 @@ h1{
 /* css for header */
 
 header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #1A1F38;
     width: 100%;
     height: 9rem;

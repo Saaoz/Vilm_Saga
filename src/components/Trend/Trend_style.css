@@ -1,8 +1,22 @@
 section{
     background-color: #000;
+    color: #FFF;
+}
+
+.features{
+    display: flex;
+    flex-wrap: wrap;
+    padding-inline: 7rem;
+    gap: 1.5rem;
 }
 
 .content{
     width: 19.3rem;
     height: 35.5rem;
+    margin-bottom:3.5rem ;
+}
+
+h1{
+    padding-inline: 7rem;
+    display: flex;
 }
